@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=zuoez02)
