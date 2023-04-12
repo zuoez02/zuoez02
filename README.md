@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Zuoez02's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuoez02)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=zuoez02)
+
